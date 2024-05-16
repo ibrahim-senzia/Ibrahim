@@ -6,9 +6,8 @@ Ibrahim
 
 ## 👨🏻‍💻About Me
 - 🤔  Exploring new technologies and developing software solutions and quick hacks.
-- 🔭  I’m currently working on Software Engineering projects.##
+- 🔭  I’m currently working on Software Engineering projects.
 - 🌱  Learning more about  Frontend Developement.
-- 💬  Ask me about: React,Javascript,Html,Css.
-  
-- ⚡   Fun fact:
-       I love travelling and Cars.
+- 💬  Ask me about: React,Javascript,Html and Css.
+- ⚡   Fun fact:  I love wildlife, travelling and Cars.
+
