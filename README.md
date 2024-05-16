@@ -4,7 +4,7 @@ Ibrahim
 
 ## 🚀 Aspiring Software Engineer | Committed Programmer 🚀
 
-👨🏻‍💻## About Me
+## 👨🏻‍💻About Me
 - 🤔  Exploring new technologies and developing software solutions and quick hacks.
 - 🔭  I’m currently working on Software Engineering projects.##
 - 🌱  Learning more about  Frontend Developement.
